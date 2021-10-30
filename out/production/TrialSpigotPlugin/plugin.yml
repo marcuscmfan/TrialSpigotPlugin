@@ -1,0 +1,10 @@
+name: Trial Plugin
+version: 1
+author: Cilantro
+main: me.cilantro.trialplugin.Trial
+api-version: 1.8.8
+commands:
+  players:
+    description: Tells player the players on the server
+    usage: /<command>
+    aliases: [online]

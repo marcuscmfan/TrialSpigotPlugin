@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrialSpigotPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrialSpigotPlugin_jar</output-path>
+    <root id="archive" name="TrialSpigotPlugin.jar">
+      <element id="module-output" name="TrialSpigotPlugin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-1.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
