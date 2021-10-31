@@ -8,3 +8,11 @@ commands:
     description: Tells player the players on the server
     usage: /<command>
     aliases: [online]
+  tpall:
+    description: Tps all player to users location
+    usage: /<command>
+  smite:
+    description: Strikes all with lightning
+    usage: /<command>
+    aliases:
+      - smiteall
